@@ -28,3 +28,11 @@ li {
 li em {
     font-weight: bold;
 }
+
+ul li.linguagem {
+    color: blue;
+}
+
+ul li.java {
+    background-color: pink;
+}
