@@ -36,3 +36,27 @@ ul li.linguagem {
 ul li.java {
     background-color: pink;
 }
+
+ul li a:hover {
+    font-weight: bold;
+}
+
+ul li a.stackoverflow:hover {
+    color: orange;
+}
+
+ul li a.w3schools:hover {
+    color: green;
+}
+
+ul li a.mozilla:hover {
+    color: black;
+}
+
+ul li a.devdocs:hover {
+    color: yellow;
+}
+
+ul li a.betrybe:hover {
+    color: green;
+}
