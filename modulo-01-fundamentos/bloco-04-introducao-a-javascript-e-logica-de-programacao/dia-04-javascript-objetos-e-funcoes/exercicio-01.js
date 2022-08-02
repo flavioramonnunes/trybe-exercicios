@@ -1,3 +1,5 @@
+//Imprima no console uma mensagem de boas-vindas para a personagem abaixo, incluindo seu nome.
+
 let info = {
   personagem: 'Margarida',
   origem: 'Pato Donald',
